@@ -1,0 +1,13 @@
+Aplikasi Tiketing
+*Email    : Admin@gmail.com
+*Pasword  : Admin
+ 
+ *User
+  Masuk di halaman Welcome yang menyediakan isian form untuk pemebelian tiket 
+  Jika sudah mengisi form dan dikirim maka tiket sudah otomatis di beli lalu akan muncul simbol tiket
+ 
+ *Admin
+  Login di halaman Welcome lalu masuk ke halaman admin di situ ada beberapa list menu masuk ke daftar pemesanan di situ bisa melihat data pemesan yang masuk
+  dan melihat status register apabila sudah melakukan pembayaran ataw prosedur sudah sesuai maka admin bisa memperifikasi tiket sudah valid yang nantinya masuk di halaman Check in
+  di halaman cek in di gunakan di saat hariha untuk mengecek tiket tervalidasi apa bila sudah valid maka pemesan boleh masuk dan menklik masuk untuk mengubah status tiket menjadi Expaired
+  agar tiket tidak bisa di gunakan 2 kali. 
